@@ -10,6 +10,6 @@
 
 Python / Machine Learning / Deep Learning / Natural Language Processing / Data Analysis / Data Visualization /
 
-AWS / Model Deployment / Streamlit / Flask / Microsoft SQL Server / Database Modelling & Design / 
+EDA / Data Wrangling / AWS / Model Deployment / Streamlit / Flask / Microsoft SQL Server / Database Modelling & Design / 
 
-Git / Github /Linux 
+Bash Scripting / Git / Github /Linux 
