@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently improving my Data Science and Machine Learning skills.
 
-- 🌱 I have learned Machine Learning, Natural Language Processing, and Deep Learning (Neural Networks | TensorFlow | Keras | NLTK)
+- 🌱 I have learned Machine Learning, Natural Language Processing, and Deep Learning (Neural Networks | TensorFlow | Keras | NLTK | PyTorch)
 
 
 ## I know:
