@@ -17,6 +17,15 @@ Bash Scripting / Git / Github /Linux
 
 ## 📈 Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ycyusufcan" alt="ycyusufcan" /> </p>
+
+</p>
+<br>
+<p align="center">
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aumitcaliskan&show_icons=true&theme=vue"/></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumitcaliskan&theme=vue&hide=tex,java,css"/></a>
+</p>
+
 </p>
 <br>
 <p align="center">
