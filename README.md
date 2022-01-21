@@ -28,7 +28,3 @@ Bash Scripting / Git / Github /Linux
 
 </p>
 <br>
-<p align="center">
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ycyusufcan&count_private=true&show_icons=true&theme=vue"/></a>
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycyusufcan&theme=vue&hide=tex,java,css"/></a>
-</p>
